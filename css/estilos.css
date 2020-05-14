@@ -1,0 +1,40 @@
+body { 
+    background-color: #FFA07A;
+    background-image: url('https://newtrade.com.br/wp-content/uploads/2017/11/background-azul.gif');
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family: Arial;
+    
+  }
+  
+  .menu {
+  
+  }
+  
+  .menu ul {
+    display: flex; /*faz ficar em formato de colunas */
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: teal;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    color: #FF5733;
+    text-align: center;
+    
+  }
+  
+  .site-subtitle {
+    
+  }
